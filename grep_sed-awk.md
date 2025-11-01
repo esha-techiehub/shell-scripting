@@ -1,4 +1,4 @@
-# Advanced Shell Scripting — README
+# Shell Scripting — REGULAR EXPRESSIONS (REGEX)
 
 *A concise, practical guide to regular expressions, grep, sed, awk, and file handling — with examples and mini exercises.*
 
